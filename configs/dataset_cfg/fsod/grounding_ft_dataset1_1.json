@@ -1,0 +1,20 @@
+{
+  "train": [
+    {
+      "root": "/your_path_to_datasets/actions-zzid2-zb1hq-fsod-amih.v1i.coco/train/",
+      "anno": "/your_path_to_datasets/actions-zzid2-zb1hq-fsod-amih.v1i.coco/train/_annotations.coco.json",
+      "data_name": "none",
+      "data_type": "det",
+      "anno_protocol": "coco"
+    }
+  ],
+  "val": [
+    {
+      "root": "/your_path_to_datasets/actions-zzid2-zb1hq-fsod-amih.v1i.coco/test/",
+      "anno": "/your_path_to_datasets/actions-zzid2-zb1hq-fsod-amih.v1i.coco/test/_annotations.coco.json",
+      "data_name": "none",
+      "data_type": "det",
+      "anno_protocol": "coco"
+    }
+  ]
+}
